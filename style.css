@@ -1,0 +1,102 @@
+body {
+	background: #FFFFCC;
+ 	background-image: url("gray.png");
+	font-family: verdana;
+}
+.menudiv {
+	width:1000px; 
+	border-style:dashed; 
+	border-width:2px; 
+	border-color:lightcyan; 
+	margin-top:15px; 
+	margin-bottom: 10px;
+}
+.imgdiv {
+	width:490px; 
+	height:280px; 
+	border-style:dashed; 
+	border-width:2px; 
+	border-color:lightcyan; 
+	margin-top:15px; 
+	margin-bottom: 10px;
+}
+
+.imgbigdiv {
+	width:1000px; 
+	height:450px; 
+	border-style:dashed; 
+	border-width:2px; 
+	border-color:lightcyan; 
+	margin-top:15px; 
+	margin-bottom: 10px;
+}
+
+.imgtitle {
+	font-family:helvetica;
+	font-size:14x;
+	font-style:normal;
+	font-weight:bold;
+	text-align: center;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+
+.imgself {
+	margin-top:5px;
+	margin-bottom:15px;
+}
+
+.pagetitle {
+	font-family: times;
+	font-size:24px;
+	font-weight:bold;
+	margin-bottom:15px;
+	text-align: left;
+}
+
+.sitetitle {
+	font-family: times;
+	font-size:36px;
+	font-weight:bold;
+	margin-bottom:15px;
+	color:midnightblue;
+}
+.siteslogan{
+	font-family: verdana;
+	font-size:18px;
+	font-weight:normal;
+	font-style:italic;
+	margin-bottom:15px;
+	color:goldenrod;
+}
+.pagediv {
+	width:1000px;
+}
+
+.imgcaption {
+	font-family:helvetica;
+	font-size:12px;
+	font-style:normal;
+	text-align: center;
+	padding-top:0px;
+	padding-bottom:0px;
+
+}
+.linktext {
+	font-family:helvetica;
+	font-size:10x;
+	font-style:normal;
+	font-weight:normal
+	text-align: center;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+.footers {
+	font-family: times;
+	font-size:8px;
+	margin-bottom:15px;
+}
+
+.textleft {
+	text-align: left;
+}
